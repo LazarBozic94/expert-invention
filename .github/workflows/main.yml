@@ -34,6 +34,6 @@ jobs:
         with:
           platforms: linux/arm/v7
           context: .
-          tags: lazarbozic94/expert-invention:latest
+          tags: ghcr.io/lazarbozic94/expert-invention:latest
           push: true
           
